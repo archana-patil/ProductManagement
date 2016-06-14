@@ -1,0 +1,9 @@
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\bin\ProductManagement.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\bin\ProductManagement.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\bin\Controller.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\bin\ModelController.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\bin\Controller.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\bin\ModelController.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\obj\Debug\ProductManagementApp.csprojResolveAssemblyReference.cache
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\obj\Debug\ProductManagement.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb

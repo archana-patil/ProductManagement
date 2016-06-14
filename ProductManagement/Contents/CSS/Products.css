@@ -1,0 +1,184 @@
+﻿body 
+{
+  font: 13px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+  color: #404040;
+}
+
+#header 
+{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+.nav 
+{
+    line-height:30px;
+    background-color:#eeeeee;
+    min-height: 500px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+
+.section 
+{
+    width:87%;
+    float:left;
+    padding:5px; 
+    min-height: 500px;
+}
+
+#footer 
+{
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+.wrapper 
+{ 
+  border : 2px solid #000; 
+  overflow:hidden;
+}
+
+.wrapper div 
+{
+   min-height: 370px;
+   padding: 5px;
+}
+
+#productEntry 
+{
+  background-color: white;
+  float:left; 
+  margin-right:20px;
+}
+
+#productDetails 
+{ 
+  background-color: white;
+  overflow:hidden;
+  margin:10px;
+  border:2px dashed #ccc;
+  min-height:170px;
+}
+
+#categoryEntry 
+{
+  background-color: white;
+  float:left; 
+  margin-right:20px;
+}
+
+#categoryDetails 
+{ 
+  background-color: white;
+  overflow:hidden;
+  margin:10px;
+  border:2px dashed #ccc;
+  min-height:170px;
+}
+
+.ddl
+{
+    width:150px;
+    border:2px solid #7d6754;
+    border-radius:5px;
+    padding:3px;
+    -webkit-appearance: none; 
+    background-position:88px;
+    background-repeat:no-repeat;
+}
+
+.center 
+{
+    margin: auto;
+    width: 30%;
+    padding: 15%;
+    vertical-align:middle;
+}
+
+.login
+{
+    margin: auto;
+    padding:10%;
+}
+
+.dvgridview
+{
+    overflow:auto;    
+}
+.tblProductList
+{
+    border: solid 1px #000000;    
+}
+
+.dataRow
+{
+    border: 1px solid rgb(237, 237, 237); width: 100px; padding: 10px; text-align: center; float: left;
+    margin:5px; display:block;
+    cursor:pointer;
+}
+.dataRow:hover
+{
+    background-color:#E1E1E1;
+}
+.dataRow img
+{
+    width:70px;
+    height:70px;
+    -webkit-transition: all .2s ease-in; /* element qui subit la transition, temps de la transition et function de la transition*/
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    transition: all .2s ease-in;    
+}
+.dataRow img:hover
+{
+    -webkit-transform: scale(1.5); /*multiplication de la taille de dpart x 4*/
+    -moz-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    transform: scale(1.5);
+    -webkit-transform-origin: center center; /*origine de l'animation*/
+    -moz-transform-origin: center center;
+    -o-transform-origin: center center;
+    transform-origin: center center;
+}
+.dataRow h3
+{
+    font-size:13px;
+    font-weight:normal;
+    margin-bottom:0px;
+}
+.ValidationSummary
+{
+    color:Red;    
+}
+
+.stack  h3
+{
+    font-size:13px;
+    font-weight:bold;
+    margin-bottom:0px;
+}
+.stack .row 
+{ 
+    clear:both;
+}
+.stack .row  .col    
+{
+    float:left;
+    border:1px solid;
+    margin:5px; 
+    padding: 10px; 
+    border: 1px solid rgb(237, 237, 237); 
+}
+
+.col img
+{
+    width:150px;
+    height:150px;
+}

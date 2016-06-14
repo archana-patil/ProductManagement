@@ -1,0 +1,9 @@
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\bin\ProductWcfService.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\bin\ProductWcfService.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\bin\Controller.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\bin\ModelController.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\bin\Controller.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\bin\ModelController.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\obj\Debug\ProductWcfService.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\obj\Debug\ProductWcfService.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ProductWcfService\obj\Debug\ProductWcfService.csprojResolveAssemblyReference.cache

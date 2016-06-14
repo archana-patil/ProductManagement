@@ -1,0 +1,14 @@
+D:\NetwinInfosolutions\2016\Assignment\ModelController\ModelController\bin\Debug\ModelController.dll
+D:\NetwinInfosolutions\2016\Assignment\ModelController\ModelController\bin\Debug\ModelController.pdb
+D:\NetwinInfosolutions\2016\Assignment\ModelController\ModelController\obj\Debug\ModelController.dll
+D:\NetwinInfosolutions\2016\Assignment\ModelController\ModelController\obj\Debug\ModelController.pdb
+D:\NetwinInfosolutions\2016\Assignment\ModelController\ModelController\bin\Debug\Controller.dll
+D:\NetwinInfosolutions\2016\Assignment\ModelController\ModelController\bin\Debug\Controller.pdb
+D:\NetwinInfosolutions\2016\Assignment\ModelController\ModelController\obj\Debug\ModelController.csprojResolveAssemblyReference.cache
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ModelController\bin\Debug\ModelController.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ModelController\bin\Debug\ModelController.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ModelController\obj\Debug\ModelController.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ModelController\obj\Debug\ModelController.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ModelController\bin\Debug\Controller.dll
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ModelController\bin\Debug\Controller.pdb
+D:\NetwinInfosolutions\2016\Assignment\ProductManagement\ModelController\obj\Debug\ModelController.csprojResolveAssemblyReference.cache
